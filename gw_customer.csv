@@ -1,0 +1,6 @@
+Customer_ID,GrindingWheel_Diameter,GrindingWheel_Thickness,GrindingWheel_GrainSize
+C0,200,20,60
+C1,250,25,80
+C2,200,20,60
+C3,300,30,100
+C4,250,25,70
